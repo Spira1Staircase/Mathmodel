@@ -1,1 +1,2 @@
 # Mathmodel
+# AppName Mathmodel Finder
